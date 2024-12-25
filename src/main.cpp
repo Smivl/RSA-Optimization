@@ -5,6 +5,7 @@
 #include <map>
 #include <unordered_map>
 #include <mutex>
+#include <sstream>
 #include <condition_variable>
 #include "bignum.hpp"
 
